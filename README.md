@@ -3,7 +3,7 @@ Repositório para mostrar o treinamento e comparação de 2 algoritmos de Inteli
  - Arquivo .R com código para importar, tratar e usar dados da base de dados de problemas cardíacos para treinar 2 algoritmos de IA para classificação;
  - Arquivo .CSV com base de dados originais.
 
-Os algoritmos tentam prever, baseado em atributos dos pacientes, se ele virá a óbito (DEATH_EVENT=1) ou não (DEATH_EVENT=0).
+Os algoritmos tentam prever, de acordo com atributos dos pacientes, se ele virá a óbito (DEATH_EVENT=1) ou não (DEATH_EVENT=0).
 
 Atributos originais da base de dados:
 
