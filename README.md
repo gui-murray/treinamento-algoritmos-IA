@@ -1,5 +1,9 @@
 # treinamento-algoritmos-IA
-Repositório para mostrar o treinamento e comparação de 2 algoritmos de Inteligência Artificial (IA). O objetivo é prever o óbito de pacientes com problemas cardíacos durante follow-up, baseado em um banco de dados gratuito.
+Repositório para mostrar o treinamento e comparação de 2 algoritmos de Inteligência Artificial (IA). O objetivo é prever o óbito de pacientes com problemas cardíacos durante follow-up, baseado em um banco de dados gratuito. O repositório possui 2 arquivos base, os demais são imagens para mostrar resultados ao rodar o código.
+ - Arquivo .R com código para importar, tratar e usar dados da base de dados de problemas cardíacos para treinar 2 algoritmos de IA para classificação;
+ - Arquivo .CSV com base de dados originais.
+
+Os algoritmos tentam prever, baseado em atributos dos pacientes, se ele virá a óbito (DEATH_EVENT=1) ou não (DEATH_EVENT=0).
 
 Atributos originais da base de dados:
 
